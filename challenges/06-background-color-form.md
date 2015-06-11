@@ -1,0 +1,1 @@
+Make a Webpage with a form input. When the user types in a color like `red`, change the page's background color to red. You can support a limited number of colors and provide error handling if the color isn't supported yet.
