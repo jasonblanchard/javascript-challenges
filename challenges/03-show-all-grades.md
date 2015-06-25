@@ -6,4 +6,10 @@ Zack - 80
 Tony - 100
 ```
 
-For each student, show their name and the grade they got, like `Ralph got a 90 on the test.`
+For each student, log to the console their name and the grade they got. The output should look like this:
+
+```
+Ralph got 90% on the test.
+Zack got 80% on the test.
+Tony got 100% on the test.
+```
