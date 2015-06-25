@@ -13,3 +13,5 @@ Ralph got 90% on the test.
 Zack got 80% on the test.
 Tony got 100% on the test.
 ```
+
+Make sure your code can scale if we add new students to the class.
